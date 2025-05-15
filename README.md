@@ -11,12 +11,6 @@ Whether you're a student, traveler, or language enthusiast, this tool provides q
 
 This project demonstrates practical use of Python’s GUI programming and third-party API integration, making it a great reference for learning or enhancement.
 
-# 🌍 Language Translator GUI using Python & Google Translate
-
-A simple and elegant desktop application that translates text between different languages using the Google Translate API. Built with Python’s `tkinter` for the graphical interface and `googletrans` for translation services.
-
----
-
  Features
 
 -  Translate between **100+ languages**
