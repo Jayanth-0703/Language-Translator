@@ -45,14 +45,15 @@ pip install googletrans==4.0.0-rc1
 ## Run the application:
 python translator.py
 
-Screenshots:
+## Screenshots:
 ![Screenshot 2025-05-15 160220](https://github.com/user-attachments/assets/86d96992-9685-40a0-a784-91986ad03ff4)
 
+
 Usage
-1.Select the source and target languages from the dropdown menus.
-2.Enter text in the input field.
-3.Click Translate.
-4.The translated result will appear below.
+-Select the source and target languages from the dropdown menus.
+-Enter text in the input field.
+-Click Translate.
+-The translated result will appear below.
 
 
 
