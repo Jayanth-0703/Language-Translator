@@ -43,7 +43,7 @@ Install required packages:
 pip install googletrans==4.0.0-rc1
 
 ## Run the application:
-python translator.py
+python_translator.py
 
 ## Screenshots:
 ![Screenshot 2025-05-15 160220](https://github.com/user-attachments/assets/86d96992-9685-40a0-a784-91986ad03ff4)
